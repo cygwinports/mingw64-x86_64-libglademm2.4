@@ -4,7 +4,7 @@ inherit cross gtkmm
 
 NAME="mingw64-x86_64-libglademm2.4"
 VERSION=2.6.7
-RELEASE=2
+RELEASE=3
 CATEGORY="Devel"
 SUMMARY="C++ libglade2 bindings for Win64 toolchain"
 DESCRIPTION="This package does NOT contain cygwin binaries.  Instead, it
